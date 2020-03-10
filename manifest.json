@@ -2,6 +2,7 @@
     "manifest_version": 2,
     "name": "Chip.de Blocker",
     "version": "0.1.0",
+    "author": "gregthwuen",
 
     "description": "Keeps Chip.de from loading.",
     "icons": { "48": "icon48.png" },
