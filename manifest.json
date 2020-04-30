@@ -1,10 +1,11 @@
 {
     "manifest_version": 2,
-    "name": "Chip.de Blocker",
-    "version": "0.1.0",
+
+    "name": "chipr",
+    "version": "0.1.1",
     "author": "gregthwuen",
 
-    "description": "Keeps Chip.de from loading.",
+    "description": "chip + r(emove) – blocks chip.de",
     "icons": { "48": "icon48.png" },
 
     "content_scripts": [
